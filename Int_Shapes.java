@@ -1,10 +1,3 @@
-// Ariana Smallwood
-// CSC-117WK1 Java Programming
-// Due date: 2/7/2022
-/* program description: this is a Java program for calculating the rectangle, triangle and the 
-square by using the if else statments.*/
-
-
 import java.util.*;
 import java.text.DecimalFormat;
 
