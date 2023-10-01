@@ -1,2 +1,2 @@
 # Calculate-Shapes
-This is a java program for calculating the circumferences of shapes including triangles, squares and rectangles.
+This Java program is specifically designed to calculate the circumferences of different geometric shapes, including triangles, squares, and rectangles. With its powerful functionality, you can easily determine the total length around these shapes. So, whether you are working with a triangle, a square, or a rectangle, this program has got you covered. With just a few simple steps, you can quickly find the circumference of any shape.
